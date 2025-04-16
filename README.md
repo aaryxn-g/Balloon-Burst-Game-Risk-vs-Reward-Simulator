@@ -1,7 +1,7 @@
 # 🎈 Balloon Burst Game – Risk vs Reward Simulator
 
 > ⚠️ **Note:**  
-> This is a **base-level algorithmic version** of the balloon burst game implemented in Python.  
+> This is a **base-level algorithmic version** of the balloon burst game implemented in Python/C.  
 > The current design focuses on core mechanics — **multiplier growth, user-triggered cash-out, and burst logic**.  
 > It is a **work in progress** and subject to balancing changes, gameplay tuning, and feature expansions.
 
